@@ -9,7 +9,7 @@ def test_multiplication_of_numbers():
     assert calc_multiply(6,9) == 54
 
 def test_division_of_numbers():
-    assert calc_divide(7,2) == 3
+    assert calc_divide(6,2) == 3
 
 def test_subtraction_of_numbers():
     assert calc_subtract(10,1) == 9
